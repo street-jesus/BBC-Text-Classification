@@ -1,2 +1,3 @@
 # BBC-Text-Classification
-easy stuff
+
+Im not exactly done but, its good enough.
